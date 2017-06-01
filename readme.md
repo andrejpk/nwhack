@@ -111,3 +111,4 @@ Docker containers can be deployed to Azure in several ways:
 * [Into a Azure App Services for Linux instance](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-linux-using-custom-docker-image)
 * [Onto a VM running a docker image](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/docker-compose-quickstart)
 
+For large or more complicated container solutions, talk to Andrej about other options like Kubernetes.
