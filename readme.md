@@ -29,6 +29,8 @@ You can probably use the tools you already have installed on your computer. Here
 
 - **[Git](https://git-scm.com/downloads)** is the FTP of source code. You can easily [deploy your solution to Azure with a Git Push operation](https://docs.microsoft.com/en-us/aspnet/core/publishing/azure-continuous-deployment) as well as to Pivotal Cloud Foundry (PCF). 
 
+** We are hosting a Git 101 training session on June 16 at noon. Check the Hackathon site for details. The content is built (here on Github)[https://github.com/andrejpk/git101].
+
    There are many great getting-started guides to Git online, and 30 minutes spent learning the basics ahead of Hackathon night will pay big dividends. 
 
 - **[Visual Studio Code](https://code.visualstudio.com/)** Free and lightweight editor targeted at web and service solutions, available for PC, Mac and Linux. Windows version can be installed as a non-admin user rom the [VS Code Windows download page](https://code.visualstudio.com/docs/setup/windows). 
